@@ -16,6 +16,7 @@
 *.war
 *.ear
 
+**/.mvn/wrapper/maven-wrapper.jar
 # Merge Files
 *.bak
 
