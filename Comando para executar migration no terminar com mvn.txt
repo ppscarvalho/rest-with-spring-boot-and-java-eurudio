@@ -1,0 +1,5 @@
+abrir um terminal no mesmo diretorio em que encontra-se o pom.xml
+
+digite o seguinte comando
+
+mvn flyway:migrate
